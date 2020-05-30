@@ -1,0 +1,6 @@
+framework module Pods_Unwind {
+  umbrella header "Pods-Unwind-umbrella.h"
+
+  export *
+  module * { export * }
+}

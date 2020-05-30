@@ -1,0 +1,6 @@
+framework module Pods_Unwind_UnwindUITests {
+  umbrella header "Pods-Unwind-UnwindUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
