@@ -13,7 +13,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 olefile==0.46
-Pillow==7.1.2
+Pillow==8.2.0
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
